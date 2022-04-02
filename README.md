@@ -1,2 +1,6 @@
 # vuex-launchx
-Vuex intro launchX, random counter
+Vuex intro launchX \
+
+Random counter
+
+Square counter
