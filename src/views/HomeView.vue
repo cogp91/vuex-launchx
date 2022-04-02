@@ -7,6 +7,8 @@
     <Cuadrado/>
 
     <Botones/>
+
+    <ColorCode/>
   </div>
 </template>
 
@@ -14,13 +16,15 @@
 import Contador from "../components/Contador.vue";
 import Cuadrado from "../components/Cuadrado.vue";
 import Botones from "../components/Botones.vue";
+import ColorCode from "../components/ColorCode.vue";
 
 export default {
   name: 'HomeView',
   components: {
     Contador,
     Cuadrado,
-    Botones
+    Botones,
+    ColorCode
   },
 }
 </script>
