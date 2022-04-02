@@ -1,5 +1,14 @@
 # vuex-launchx
 
+## Description
+Vuex Intro launchX
+
+Random Counter
+
+Random Square Counter
+
+Change Color
+
 ## Project setup
 ```
 npm install
@@ -17,8 +26,4 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-Vuex intro launchX \
 
-Random counter
-
-Square counter
